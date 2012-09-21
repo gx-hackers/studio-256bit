@@ -2,7 +2,7 @@
   {% if node.title != null %}
     {% if group == null or group == node.group %}
       {% if page.url == node.url %}
-        <a href="{{ BASE_PATH }}{{node.url}}" class="active">{{node.title}}</a>
+        <span class=active><a href="{{ BASE_PATH }}{{node.url}}" class="btn btn-github">{{node.title}}</a></span>
       {% else %}
         <a class="btn btn-github" href="{{ BASE_PATH }}{{node.url}}">{{node.title}}</a>
       {% endif %}

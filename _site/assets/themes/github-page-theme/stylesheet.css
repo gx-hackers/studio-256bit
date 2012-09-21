@@ -44,9 +44,9 @@ header {
 }
 
 header h1 {
-  font-size: 30px;
+  font-size: 64px;
   line-height: 1.5;
-  margin: 0 0 0 -40px;
+  margin: 0 0 0 10px;
   font-weight: bold;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   color: #b5e853;
@@ -58,8 +58,8 @@ header h1 {
 }
 
 header h1:before {
-  content: "./ ";
-  font-size: 24px;
+  /* content: " ./"; */
+  font-size: 40px;
 }
 
 header h2 {
@@ -220,6 +220,10 @@ hr {
 .btn-github .icon {
   opacity: 0.6;
   background: url("../images/blacktocat.png") 0 0 no-repeat;
+}
+
+.active .btn-github {
+  background: -webkit-linear-gradient(top, rgba(40, 40, 40, 0.6), rgba(35, 35, 35, 0.6) 50%, rgba(10, 10, 10, 0.8) 50%, rgba(0, 0, 0, 0.8));
 }
 
 /* Links
