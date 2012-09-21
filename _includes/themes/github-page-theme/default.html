@@ -2,13 +2,14 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <title>{{ page.title }}</title>
     {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
     <meta name="author" content="{{ site.author.name }}">
 
     <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
     <!--[if lt IE 9]>
-      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
     <!-- Le styles -->
@@ -17,39 +18,43 @@
     <link href="{{ ASSET_PATH }}/pygment_trac.css" rel="stylesheet" type="text/css" media="all">
 
     <!-- Le fav and touch icons -->
-  <!-- Update these with your own images
+    <!-- Update these with your own images
     <link rel="shortcut icon" href="images/favicon.ico">
     <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
     <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
     <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
-  -->
+    -->
   </head>
 
   <body>
-
-    <h1>./{{ site.title }}</h1>
-    <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
-    <ul class="nav">
-      <!--{% assign pages_list = site.pages %}-->
-      <!--{% assign group = 'navigation' %}-->
-      {% include JB/pages_list %}
-    </ul>
+    <header>
+    <div class="container">
+      <!-- <h1><a href="{{ HOME_PATH }}" >{{ site.title }}</a></h1> -->
+      <h1>
+        {{ site.title }}
+ <!--  ____  _             _ _         ____  ____   __   _     _ _ -->
+ <!-- / ___|| |_ _   _  __| (_) ___   |___ \| ___| / /_ | |__ (_) |_ -->
+ <!-- \___ \| __| | | |/ _` | |/ _ \    __) |___ \| '_ \| '_ \| | __| -->
+ <!--  ___) | |_| |_| | (_| | | (_) |  / __/ ___) | (_) | |_) | | |_ -->
+ <!-- |____/ \__|\__,_|\__,_|_|\___/  |_____|____/ \___/|_.__/|_|\__| -->
+      </h1>
+      <section id="downloads">
+        {% assign pages_list = site.pages %}
+        {% assign group = 'navigation' %}
+        {% include custom/pages_list %}
+      </section>
+    </div>
+    </header>
 
     <div class="container">
-
-      <div class="content">
+      <section id="main_content">
         {{ content }}
-      </div>
-
+      </section>
       <footer>
-        <p>&copy; {{ site.author.name }} 2012
-          with help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
-          and <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a>
-        </p>
+      <p>&copy; {{ site.author.name }} 2012</p>
       </footer>
 
     </div> <!-- /container -->
-
     {% include JB/analytics %}
   </body>
 </html>

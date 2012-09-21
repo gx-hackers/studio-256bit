@@ -1,17 +1,11 @@
 ---
 layout: page
-title: ガイアックスプログラミング部だお!
-tagline: ただひたすら純粋にプログラミングを極めたい…
+title: GaiaX プログラミング部
+tagline:
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
-
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
-
 ## 部訓
-
-## 内容
 
 ## 活動場所
 
