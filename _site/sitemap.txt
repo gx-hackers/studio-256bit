@@ -1,9 +1,0 @@
-
-http://gx-hackers.github.com/archive.html
-http://gx-hackers.github.com/index.html
-http://gx-hackers.github.com/atom.xml
-http://gx-hackers.github.com/tags.html
-http://gx-hackers.github.com/pages.html
-http://gx-hackers.github.com/categories.html
-http://gx-hackers.github.com/sitemap.txt
-http://gx-hackers.github.com/about.html
