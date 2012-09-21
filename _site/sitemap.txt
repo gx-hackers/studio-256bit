@@ -6,5 +6,4 @@ http://gx-hackers.github.com/tags.html
 http://gx-hackers.github.com/pages.html
 http://gx-hackers.github.com/categories.html
 http://gx-hackers.github.com/sitemap.txt
-
-http://gx-hackers.github.com/lessons/2011/12/29/jekyll-introduction
+http://gx-hackers.github.com/about.html
