@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "About"
+title: "Products"
 description: ""
+group: navigation
 ---
 {% include JB/setup %}
