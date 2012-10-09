@@ -3,6 +3,8 @@ layout: page
 title: "GaiaX プログラミング部"
 tagline:
 ---
+{% include JB/setup %}
+
 ## 【期間限定】YAPC::ASIA tokyo 2012 GaiaX ×CodeIQコラボ企画実施中!!
 最強の爆速アルゴリズムお待ちしております！
 [http://yapc.pjeuler.com/dir/yapc2012](http://yapc.pjeuler.com/dir/yapc2012)
@@ -15,7 +17,6 @@ tagline:
 [GaiaXプログラミング部 Studio 256bit Facebook Group](https://www.facebook.com/groups/358135364273478/)
 
 ## 活動履歴
-
 <ul class="posts">
   {% for post in site.posts %}
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
