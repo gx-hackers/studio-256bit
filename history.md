@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "History"
-description: "Gaiax プログラミング部 studio 256bit の歴史"
+description: "GaiaX プログラミング部 studio 256bit の歴史"
 group: navigation
 ---
 ###2012
@@ -18,6 +18,6 @@ group: navigation
  * 8/16 - 部室に家具が届く。部室にて活動を本格スタート。以降朝練、夜練は部室にて。
  * 8/30 - 部室にてEulerレビュー会を開催。
  * 9/4  - 夜練にてプロダクト制作開始
- * 9/25 - Gaiax × CodeIQのYAPC限定コラボ企画。[「素数戦争」](http://yapc.pjeuler.com/dir/yapc2012)勃発。
- * 10/3 - 部室にて[Gaiax CodeIQメンバー主催Project Eulerで勉強会](http://www.facebook.com/media/set/?set=oa.360650944021920&type=1)を開催しました。
+ * 9/25 - GaiaX × CodeIQのYAPC限定コラボ企画。[「素数戦争」](http://yapc.pjeuler.com/dir/yapc2012)勃発。
+ * 10/3 - 部室にて[GaiaX CodeIQメンバー主催Project Eulerで勉強会](http://www.facebook.com/media/set/?set=oa.360650944021920&type=1)を開催しました。
 {% include JB/setup %}

@@ -6,13 +6,13 @@ category : lessons
 tags : [intro]
 ---
 
-Gaiaxプログラミング部、ゴールデンルーキーの[@mr-myself](https://github.com/mr-myself)です。<br>
+GaiaXプログラミング部、ゴールデンルーキーの[@mr-myself](https://github.com/mr-myself)です。<br>
 この度、夜練をはじめることになりました。
 ###【日時】
 月、木 19:30〜21:00
 
 ###【場所】
-Gaiax社内某所（仮）
+GaiaX社内某所（仮）
 
 ###【内容】
  * 30分 - 朝練同様の鍛錬<br>

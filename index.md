@@ -10,7 +10,7 @@ tagline:
 [http://yapc.pjeuler.com/dir/yapc2012](http://yapc.pjeuler.com/dir/yapc2012)
 
 ## studio 256bit
-「studio 256bit」とはGaiaxプログラミング部が未来を作るためのスタジオであり、またGaiaxプログラミング部の通称でもあります。
+「studio 256bit」とはGaiaXプログラミング部が未来を作るためのスタジオであり、またGaiaXプログラミング部の通称でもあります。
 
 ![部訓](https://raw.github.com/gx-hackers/studio-256bit/gh-pages/images/bukun.png)
 ## Contact

@@ -8,7 +8,7 @@ tags : [intro]
 
 ![primewars](https://raw.github.com/gx-hackers/studio-256bit/gh-pages/images/primewars.jpg)
 
-こんにちはこんにちは！Gaiaxプログラミング部のひら部員の[@kazuph](https://github.com/kazuph)です。
+こんにちはこんにちは！GaiaXプログラミング部のエース部員の[@kazuph](https://github.com/kazuph)です。
 
 突然ですが[素数戦争](http://yapc.pjeuler.com/dir/yapc2012)が勃発しました。どの言語が最強最速言語なのかを決める時が来たのです。
 

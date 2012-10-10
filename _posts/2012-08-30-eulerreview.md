@@ -6,7 +6,7 @@ category : lessons
 tags : [intro]
 ---
 
-こんにちは。Gaiaxプログラミング部の部長の[@tyokomine](https://github.com/tyokomine)です。<br>
+こんにちは。GaiaXプログラミング部の部長の[@tyokomine](https://github.com/tyokomine)です。<br>
 部活の夜練の一貫としてEulerの競技会をしました。<br>
 Project Eulerについては[こちら](http://gx-hackers.github.com/studio-256bit/euler.html)を参照。<br>
 やったことは非常に単純です。

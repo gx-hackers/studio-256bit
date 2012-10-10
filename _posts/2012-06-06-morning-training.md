@@ -6,7 +6,7 @@ category : lessons
 tags : [intro]
 ---
 
-Gaiaxプログラミング部、部長の[@tyokomine](https://github.com/tyokomine)です。<br>
+GaiaXプログラミング部、部長の[@tyokomine](https://github.com/tyokomine)です。<br>
 この度、遂に朝練をはじめることになりました。
 ###【日時】
 月、水、金 7:50〜8:50
