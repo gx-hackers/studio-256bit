@@ -6,7 +6,9 @@ function BackgroundChange(){
             color = "0" + color;            //上位に0を補完する
       }
       color = "#" + color;                    //最上位に#を付ける
-      $('#logo').css('background-color',color);       //背景色変
+      var $logo=$('img#logo');
+      $logo.css('background-color',color);       //背景色変
+      $logo.css('visibility','visible');       //背景色変
   });
 }
 window.onload = BackgroundChange;
