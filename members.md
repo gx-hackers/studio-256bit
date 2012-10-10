@@ -9,6 +9,9 @@ group: navigation
  ![takyam](https://graph.facebook.com/100002931807386/picture)[@takyam-git(スーパーハッカー)](https://github.com/takyam-git/pjeuler)<br>
  ![hidehigo](https://graph.facebook.com/100001261476532/picture)[@hidehigo(監督)](https://github.com/hidehigo)<br>
  ![mr-myself](https://graph.facebook.com/100002289819844/picture)[@mr-myself(ゴールデンルーキー)](https://github.com/mr-myself)<br>
+ ![odebu](https://graph.facebook.com/100001082756168/picture)[@odebu(超新星)](https://github.com/odebu)<br>
+ ![twodollarz](https://graph.facebook.com/1447045074/picture)[@twodollarz(永遠のプリンス)](https://github.com/twodollarz)<br>
+ ![waka.hatori](https://graph.facebook.com/100001080446387/picture)[@waka.hatori(256bit Angel)](https://www.facebook.com/waka.hatori/)<br>
  ![fracce](https://graph.facebook.com/100000018804294/picture)[@fracce(隊長)](https://github.com/frecce)<br>
  ![koichi](https://graph.facebook.com/100000822608201/picture)[@koichi222(ルンバマスター)](https://github.com/koichi222)<br>
  ![ryujing](https://graph.facebook.com/100002042812188/picture)[@ryujing(親方)](https://github.com/ryujing)<br>
