@@ -13,6 +13,7 @@ tagline:
 「studio 256bit」とはGaiaXプログラミング部が未来を作るためのスタジオであり、またGaiaXプログラミング部の通称でもあります。
 
 ![部訓](https://raw.github.com/gx-hackers/studio-256bit/gh-pages/images/bukun.png)
+
 ## Contact
 [GaiaXプログラミング部 Studio 256bit Facebook Group](https://www.facebook.com/groups/358135364273478/)
 

@@ -29,11 +29,11 @@
 
   <body>
     <header>
-    <div class="container">
+    <div class="container" style="max-width:900px" >
       <!-- <h1><a href="{{ HOME_PATH }}" >{{ site.title }}</a></h1> -->
       <h1>
-        <div style="margin-left: 50px;">
-           <img id = "logo" src ="https://raw.github.com/gx-hackers/studio-256bit/gh-pages/images/logo.png" style="visibility:hidden;background-color:#B5E853">
+        <div style="text-align: center;">
+           <img id = "logo" src ="https://raw.github.com/gx-hackers/studio-256bit/gh-pages/images/logo.png" style="visibility:hidden;background-color:#B5E853;width:500px">
         </div>
  <!--  ____  _             _ _         ____  ____   __   _     _ _ -->
  <!-- / ___|| |_ _   _  __| (_) ___   |___ \| ___| / /_ | |__ (_) |_ -->
@@ -41,8 +41,8 @@
  <!--  ___) | |_| |_| | (_| | | (_) |  / __/ ___) | (_) | |_) | | |_ -->
  <!-- |____/ \__|\__,_|\__,_|_|\___/  |_____|____/ \___/|_.__/|_|\__| -->
       </h1>
-      <section id="downloads">
-      <a class="btn btn-github" href="{{HOME_PATH}}">About</a>
+      <section id="downloads" style="text-align:center">
+      <a class="btn btn-github" href="{{HOME_PATH}}" >About</a>
         <!--{% assign pages_list = site.pages %}-->
         <!--{% assign group = 'navigation' %}-->
         {% include custom/pages_list %}
