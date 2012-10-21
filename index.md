@@ -5,17 +5,13 @@ tagline:
 ---
 {% include JB/setup %}
 
-## 【期間限定】YAPC::ASIA tokyo 2012 GaiaX ×CodeIQコラボ企画実施中!!
-最強の爆速アルゴリズムお待ちしております！
-[http://yapc.pjeuler.com/dir/yapc2012](http://yapc.pjeuler.com/dir/yapc2012)
-
 ## studio 256bit
 「studio 256bit」とはGaiaXプログラミング部が未来を作るためのスタジオであり、またGaiaXプログラミング部の通称でもあります。
 
 ![部訓](https://raw.github.com/gx-hackers/studio-256bit/gh-pages/images/bukun.png)
 
 ## Contact
-[GaiaXプログラミング部 Studio 256bit Facebook Group](https://www.facebook.com/groups/358135364273478/)
+[GaiaXプログラミング部 studio 256bit Facebook Group](https://www.facebook.com/groups/358135364273478/)
 
 ## 活動履歴
 <ul class="posts">
