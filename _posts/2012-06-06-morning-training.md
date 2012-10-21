@@ -34,3 +34,7 @@ GaiaXプログラミング部、部長の[@tyokomine](https://github.com/tyokomi
 みなさまもぜひ！
 
 それでは今後ともよろしくお願いします。
+
+※追記<br>
+現在の朝練は[studio256bit](http://gx-hackers.github.com/studio-256bit/)にて実施しております。<br>
+[朝練始めました＠部室](http://gx-hackers.github.com/studio-256bit/lessons/2012/08/17/training@256bitstart/)
