@@ -11,6 +11,13 @@ group: navigation
   <a href='https://www.facebook.com/media/set/?set=oa.364897073597307' target="_blank"><img src="https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-ash4/3737_419773508084094_1680344667_n.jpg" width="170px"></a>
 </div>
 <br>
+ * [October 19, 2012 「Euler競技会@studio256bit with候補生」](https://www.facebook.com/media/set/?set=oa.360650944021920&type=1)
+<div style="padding:10px">
+ <a href='https://www.facebook.com/media/set/?set=oa.368442209909460' target="_blank"><img src="https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-ash4/431584_402286759836384_785726925_n.jpg" width="170px"></a>
+  <a href='https://www.facebook.com/media/set/?set=oa.368442209909460' target="_blank"><img src="https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-ash4/403633_402286613169732_135184506_n.jpg" width="170px"></a>
+  <a href='https://www.facebook.com/media/set/?set=oa.368442209909460' target="_blank"><img src="https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-ash3/67138_402287069836353_1353076511_n.jpg" width="170px"></a>
+</div>
+<br>
  * [October 3, 2012 GaiaX × CodeIQ「プロジェクトオイラーで勉強会」](https://www.facebook.com/media/set/?set=oa.360650944021920&type=1)
 <div style="padding:10px">
  <a href='https://www.facebook.com/media/set/?set=oa.360650944021920' target="_blank"><img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-snc7/r90/945_416430548418390_1834891361_n.jpg" width="170px"></a>
