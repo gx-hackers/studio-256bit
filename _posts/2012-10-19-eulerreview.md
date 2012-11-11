@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Euler 競技会 @ studio 256bit with 候補生
+title: Euler競技会@studio256bit with 候補生
 date: 2012-10-19 18:00:00
 category : lessons
 tags : [intro]
