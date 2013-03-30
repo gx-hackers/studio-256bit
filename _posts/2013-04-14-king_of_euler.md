@@ -52,7 +52,7 @@ Euler王!!
 最後の最後まで順位が激しく入れ替わる熱い戦いとなりました。<br>
 メンバーの解答一覧は[こちら](http://pjeuler.com/dir/068)
 
-その結果、第一回euler王に輝いたのはこの方！！
+その結果、第一回euler王に輝いたのはこの方[エース部員@kazuph](https://github.com/kazuph)！！
 <img src="https://raw.github.com/gx-hackers/studio-256bit/gh-pages/images/king_of_euler_kazuph.jpg" width="400px">
 
 いい笑顔ですね！<br>
