@@ -19,4 +19,6 @@ group: navigation
  ![milkyway](https://graph.facebook.com/100001715143184/picture)[@milkyway(ハッキングパパ)](https://github.com/milkyway)<br>
  ![j4590](https://graph.facebook.com/100001032243834/picture)[@j4590(インターフェースの達人)](https://github.com/j4590)<br>
  ![papix](https://graph.facebook.com/100001998537478/picture)[@papix(ベテランルーキー)](https://github.com/papix)<br>
+![kazupyong](https://graph.facebook.com/100000449016367/picture)@kazupyong(さすらいのハッカー)<br>
+ ![hoto17296](https://graph.facebook.com/100002373235767/picture)[@hoto17296(両生ハッカー)](https://github.com/hoto17296)<br>
 {% include JB/setup %}
